@@ -6,3 +6,4 @@ Basically this program has very limited features that can modify a text, make su
 2. settings.json
    
 Might add more things in the future, for now it is as is
+If there is a bug, tell me and I'll try to fix it
