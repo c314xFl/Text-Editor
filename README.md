@@ -1,2 +1,3 @@
-# Text-Editor
-Some kind of primitive text editor
+# Text Editor
+
+Basically this program has very limited features that can modify a text
